@@ -17,14 +17,14 @@ Online replacement image editor for photoshop.
 
 ## Ubuntu
 https://www.ubuntu.com/download/desktop
-Free, open source.
+Free, Open Source.
 Built on Linux, Ubuntu is a free and open source alternative to operating systems like Windows and Mac OS. There are plenty of different versions of Linux, but Ubuntu is well supported, easy to use, and popular.
 
 # Office Software
 
 ## LibreOffice
 http://www.libreoffice.org/
-Free, open source.
+Free, Open Source.
 An entire office suite of software that is free. Can open and export to a wide variety of document formats, including docx, xlsx.
 Contains a number of individual programs that compare to MS Office software.
 * LO Writer - MS Word
@@ -56,4 +56,12 @@ Easily create, manage, and grow, marketing email lists and newsletters. Mailchim
 https://www.google.com/nonprofits/products/apps-for-nonprofits.html
 Free for nonprofits.
 Formerly Google Apps for Nonprofits, G Suite for Nonprofits provides you with Gmail, Calendar, Drive, Hangouts, and more for an unlimited number of users.
+
+# Generating Reports
+
+## Metabase
+https://metabase.com/
+Free, Open Source
+Open source tool for browsing and visualizing data and generating reports from your company's databases.
+
 
