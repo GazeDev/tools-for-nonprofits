@@ -38,6 +38,11 @@ Google docs and co let you create and open a handful of document types. When sto
 
 # Security
 
+## 1Password
+https://1password.com/teams/pricing/
+Paid for personal. Paid Teams and Enterprise versions available, with %50 discount for nonprofits.
+Secure password and note manager for all your devices. Ability to share passwords and notes with others.
+
 ## Lastpass
 https://www.lastpass.com/
 Free for personal. Paid Teams and Enterprise versions available, with 30% discount for nonprofits.
