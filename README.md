@@ -55,6 +55,13 @@ https://mailchimp.com/
 Paid, with free option for small accounts. Nonprofit discount of 15%, and security discount of 10%.
 Easily create, manage, and grow, marketing email lists and newsletters. Mailchimp provides analytics, and makes it easy to design great emails for your subscribers, while keeping you up on best practices.
 
+# Video Conferencing
+
+## Jitsi
+https://meet.jit.si/
+
+Free, encrypted, open source video conferencing solution.
+
 # Internal Email, Calendar, Docs
 
 ## G Suite for Nonprofits
