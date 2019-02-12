@@ -76,4 +76,24 @@ https://metabase.com/
 Free, Open Source
 Open source tool for browsing and visualizing data and generating reports from your company's databases.
 
+# Communication
+
+## Slack
+https://slack.com/
+Free with limitations, Free for nonprofits
+Slack let's your team, org, company w together in an online chat. With support for 'channels' you can organize your team or communications however you want. Add slackbots and apps to integrate and automate your workflows. Free Slack limits the number of automations you can have, and archives messages beyond the most recent 10,000. Paid plans are per
+
+## Mattermost
+https://www.mattermost.org/
+Free, Open Source
+Mattermost is like slack, but free, open source, and is self hosted (meaning you will need IT, or Developers to maintain and upgrade it). It supports pretty much everything slack supports and more. It has docker support to make running your own instance easier.
+
+## Howdy - Slack App/Bot
+https://slack.com/apps/A09RDP4AW-howdy
+Free
+Howdy is a powerful bot that you can configure to automate tasks by collecting responses from your team and posting or sending the results. Our top use of howdy is to do a daily standup (check-in) to see what the team finished working on, what they plan on working on next, and if anything is slowing them down or blocking them.
+
+
+
+
 
