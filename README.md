@@ -38,15 +38,20 @@ Google docs and co let you create and open a handful of document types. When sto
 
 # Security
 
+## Bitwarden
+https://bitwarden.com/
+Free for personal. Paid Teams and Enterprise versions available. Say they offer discounts for nonprofits, but don't list what that is.
+Secure password and note manager for all your devices. Ability to share passwords and notes with others.
+
 ## 1Password
 https://1password.com/teams/pricing/
-Paid for personal. Paid Teams and Enterprise versions available, with %50 discount for nonprofits.
+Paid for personal. Paid Teams and Enterprise versions available, with 50% discount for nonprofits.
 Secure password and note manager for all your devices. Ability to share passwords and notes with others.
 
 ## Lastpass
 https://www.lastpass.com/
-Free for personal. Paid Teams and Enterprise versions available, with 30% discount for nonprofits.
-Secure password and note manager for all your devices. Ability to share passwords and notes with others.
+Free for limited personal use. Paid Teams and Enterprise versions available, with 30% discount for nonprofits.
+Secure password and note manager for one device type. Ability to share passwords and notes with others.
 
 # Email Marketing
 
