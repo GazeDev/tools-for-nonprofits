@@ -81,6 +81,13 @@ https://metabase.com/
 Free, Open Source
 Open source tool for browsing and visualizing data and generating reports from your company's databases.
 
+# Website Monitoring
+
+## UptimeRobot
+uptimerobot.com/sponsorship
+Free sponsored plan for non-profits (one year, renewable).
+Uptime monitoring with alerts and public status pages, so you know when your website or donation page goes down.
+
 # Communication
 
 ## Slack
